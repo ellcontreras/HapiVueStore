@@ -1,4 +1,6 @@
-# store
+
+# HapiVueStore
+e-commerce app using vue with hapijs in backend
 
 ## Project setup
 ```
@@ -14,3 +16,4 @@ npm run serve
 ```
 npm run build
 ```
+
